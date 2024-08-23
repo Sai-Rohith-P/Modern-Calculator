@@ -62,7 +62,18 @@ body{
 
 @media screen and (max-width:576px) {
     .mainform{
-        margin-top: 30px;
+        width: 380px;
+        height: 540px;
         margin-top: 180px;
+    }
+}
+@media screen and (max-width:476px){
+    .mainform{
+        width: 380px;
+        height: 540px;
+        margin-top: 180px;
+    }
+    #clear:hover{
+        box-shadow: 1px 1px 4px rgb(2, 2, 2);
     }
 }
