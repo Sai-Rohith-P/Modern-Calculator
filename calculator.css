@@ -62,14 +62,14 @@ body{
 
 @media screen and (max-width:576px) {
     .mainform{
-        width: 380px;
+        width: 360px;
         height: 540px;
         margin-top: 180px;
     }
 }
 @media screen and (max-width:476px){
     .mainform{
-        width: 380px;
+        width: 360px;
         height: 540px;
         margin-top: 180px;
     }
